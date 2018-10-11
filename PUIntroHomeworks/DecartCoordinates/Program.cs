@@ -16,7 +16,7 @@ namespace DecartCoordinates
             Console.Write("Enter Yb: ");
             double yB = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("---------------------------------");
+            Console.WriteLine("---------------------------------"); 
             Console.WriteLine("The points have the following coordinates:");
             Console.WriteLine($"Point A({xA},{yA})");
             Console.WriteLine($"Point B({xB},{yB})");
