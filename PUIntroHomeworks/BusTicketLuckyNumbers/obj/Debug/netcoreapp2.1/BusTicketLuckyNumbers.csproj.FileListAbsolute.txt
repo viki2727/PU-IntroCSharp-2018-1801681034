@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\BusTicketLuckyNumbers\bin\Debug\netcoreapp2.1\BusTicketLuckyNumbers.deps.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\BusTicketLuckyNumbers\bin\Debug\netcoreapp2.1\BusTicketLuckyNumbers.runtimeconfig.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\BusTicketLuckyNumbers\bin\Debug\netcoreapp2.1\BusTicketLuckyNumbers.runtimeconfig.dev.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\BusTicketLuckyNumbers\bin\Debug\netcoreapp2.1\BusTicketLuckyNumbers.dll
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\BusTicketLuckyNumbers\bin\Debug\netcoreapp2.1\BusTicketLuckyNumbers.pdb
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\BusTicketLuckyNumbers\obj\Debug\netcoreapp2.1\BusTicketLuckyNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\BusTicketLuckyNumbers\obj\Debug\netcoreapp2.1\BusTicketLuckyNumbers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\BusTicketLuckyNumbers\obj\Debug\netcoreapp2.1\BusTicketLuckyNumbers.AssemblyInfo.cs
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\BusTicketLuckyNumbers\obj\Debug\netcoreapp2.1\BusTicketLuckyNumbers.dll
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\BusTicketLuckyNumbers\obj\Debug\netcoreapp2.1\BusTicketLuckyNumbers.pdb

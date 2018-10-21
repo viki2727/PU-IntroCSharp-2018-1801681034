@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\SimpleDeckOfCards\obj\Debug\netcoreapp2.1\SimpleDeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\SimpleDeckOfCards\obj\Debug\netcoreapp2.1\SimpleDeckOfCards.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\SimpleDeckOfCards\obj\Debug\netcoreapp2.1\SimpleDeckOfCards.AssemblyInfo.cs
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\SimpleDeckOfCards\bin\Debug\netcoreapp2.1\SimpleDeckOfCards.deps.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\SimpleDeckOfCards\bin\Debug\netcoreapp2.1\SimpleDeckOfCards.runtimeconfig.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\SimpleDeckOfCards\bin\Debug\netcoreapp2.1\SimpleDeckOfCards.runtimeconfig.dev.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\SimpleDeckOfCards\bin\Debug\netcoreapp2.1\SimpleDeckOfCards.dll
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\SimpleDeckOfCards\bin\Debug\netcoreapp2.1\SimpleDeckOfCards.pdb
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\SimpleDeckOfCards\obj\Debug\netcoreapp2.1\SimpleDeckOfCards.dll
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\SimpleDeckOfCards\obj\Debug\netcoreapp2.1\SimpleDeckOfCards.pdb

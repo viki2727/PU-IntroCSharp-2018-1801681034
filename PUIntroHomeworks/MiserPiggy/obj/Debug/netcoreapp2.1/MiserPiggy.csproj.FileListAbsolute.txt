@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\MiserPiggy\bin\Debug\netcoreapp2.1\MiserPiggy.deps.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\MiserPiggy\bin\Debug\netcoreapp2.1\MiserPiggy.runtimeconfig.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\MiserPiggy\bin\Debug\netcoreapp2.1\MiserPiggy.runtimeconfig.dev.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\MiserPiggy\bin\Debug\netcoreapp2.1\MiserPiggy.dll
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\MiserPiggy\bin\Debug\netcoreapp2.1\MiserPiggy.pdb
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\MiserPiggy\obj\Debug\netcoreapp2.1\MiserPiggy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\MiserPiggy\obj\Debug\netcoreapp2.1\MiserPiggy.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\MiserPiggy\obj\Debug\netcoreapp2.1\MiserPiggy.AssemblyInfo.cs
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\MiserPiggy\obj\Debug\netcoreapp2.1\MiserPiggy.dll
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\MiserPiggy\obj\Debug\netcoreapp2.1\MiserPiggy.pdb
