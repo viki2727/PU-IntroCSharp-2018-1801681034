@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\StudentsNameCalculation\obj\Debug\netcoreapp2.1\StudentsNameCalculation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\StudentsNameCalculation\obj\Debug\netcoreapp2.1\StudentsNameCalculation.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\StudentsNameCalculation\obj\Debug\netcoreapp2.1\StudentsNameCalculation.AssemblyInfo.cs
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\StudentsNameCalculation\bin\Debug\netcoreapp2.1\StudentsNameCalculation.deps.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\StudentsNameCalculation\bin\Debug\netcoreapp2.1\StudentsNameCalculation.runtimeconfig.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\StudentsNameCalculation\bin\Debug\netcoreapp2.1\StudentsNameCalculation.runtimeconfig.dev.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\StudentsNameCalculation\bin\Debug\netcoreapp2.1\StudentsNameCalculation.dll
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\StudentsNameCalculation\bin\Debug\netcoreapp2.1\StudentsNameCalculation.pdb
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\StudentsNameCalculation\obj\Debug\netcoreapp2.1\StudentsNameCalculation.dll
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\StudentsNameCalculation\obj\Debug\netcoreapp2.1\StudentsNameCalculation.pdb

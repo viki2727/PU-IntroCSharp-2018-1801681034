@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GeometryCalculator\bin\Debug\netcoreapp2.1\GeometryCalculator.deps.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GeometryCalculator\bin\Debug\netcoreapp2.1\GeometryCalculator.runtimeconfig.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GeometryCalculator\bin\Debug\netcoreapp2.1\GeometryCalculator.runtimeconfig.dev.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GeometryCalculator\bin\Debug\netcoreapp2.1\GeometryCalculator.dll
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GeometryCalculator\bin\Debug\netcoreapp2.1\GeometryCalculator.pdb
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GeometryCalculator\obj\Debug\netcoreapp2.1\GeometryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GeometryCalculator\obj\Debug\netcoreapp2.1\GeometryCalculator.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GeometryCalculator\obj\Debug\netcoreapp2.1\GeometryCalculator.AssemblyInfo.cs
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GeometryCalculator\obj\Debug\netcoreapp2.1\GeometryCalculator.dll
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GeometryCalculator\obj\Debug\netcoreapp2.1\GeometryCalculator.pdb

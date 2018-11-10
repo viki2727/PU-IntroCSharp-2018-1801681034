@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GetMax\bin\Debug\netcoreapp2.1\GetMax.deps.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GetMax\bin\Debug\netcoreapp2.1\GetMax.runtimeconfig.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GetMax\bin\Debug\netcoreapp2.1\GetMax.runtimeconfig.dev.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GetMax\bin\Debug\netcoreapp2.1\GetMax.dll
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GetMax\bin\Debug\netcoreapp2.1\GetMax.pdb
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GetMax\obj\Debug\netcoreapp2.1\GetMax.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GetMax\obj\Debug\netcoreapp2.1\GetMax.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GetMax\obj\Debug\netcoreapp2.1\GetMax.AssemblyInfo.cs
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GetMax\obj\Debug\netcoreapp2.1\GetMax.dll
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\GetMax\obj\Debug\netcoreapp2.1\GetMax.pdb
