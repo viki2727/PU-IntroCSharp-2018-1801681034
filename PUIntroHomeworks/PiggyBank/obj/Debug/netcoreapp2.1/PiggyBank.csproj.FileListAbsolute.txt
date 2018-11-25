@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\PiggyBank\obj\Debug\netcoreapp2.1\PiggyBank.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\PiggyBank\obj\Debug\netcoreapp2.1\PiggyBank.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\PiggyBank\obj\Debug\netcoreapp2.1\PiggyBank.AssemblyInfo.cs
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\PiggyBank\bin\Debug\netcoreapp2.1\PiggyBank.deps.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\PiggyBank\bin\Debug\netcoreapp2.1\PiggyBank.runtimeconfig.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\PiggyBank\bin\Debug\netcoreapp2.1\PiggyBank.runtimeconfig.dev.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\PiggyBank\bin\Debug\netcoreapp2.1\PiggyBank.dll
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\PiggyBank\bin\Debug\netcoreapp2.1\PiggyBank.pdb
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\PiggyBank\obj\Debug\netcoreapp2.1\PiggyBank.dll
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\PiggyBank\obj\Debug\netcoreapp2.1\PiggyBank.pdb

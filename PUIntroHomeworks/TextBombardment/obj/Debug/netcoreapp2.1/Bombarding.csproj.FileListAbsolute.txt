@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\Bombarding\bin\Debug\netcoreapp2.1\Bombarding.deps.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\Bombarding\bin\Debug\netcoreapp2.1\Bombarding.runtimeconfig.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\Bombarding\bin\Debug\netcoreapp2.1\Bombarding.runtimeconfig.dev.json
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\Bombarding\bin\Debug\netcoreapp2.1\Bombarding.dll
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\Bombarding\bin\Debug\netcoreapp2.1\Bombarding.pdb
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\Bombarding\obj\Debug\netcoreapp2.1\Bombarding.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\Bombarding\obj\Debug\netcoreapp2.1\Bombarding.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\Bombarding\obj\Debug\netcoreapp2.1\Bombarding.AssemblyInfo.cs
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\Bombarding\obj\Debug\netcoreapp2.1\Bombarding.dll
+C:\Users\user\Desktop\repository\PU-IntroCSharp-2018-1801681034\PUIntroHomeworks\Bombarding\obj\Debug\netcoreapp2.1\Bombarding.pdb
